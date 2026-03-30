@@ -87,9 +87,9 @@ Ride providers can <b>approve or reject requests</b>. Once approved, the number 
 
 ## <b>👥 Team Members</b>
 
-- 24BCE0375- Archisha Bandyopadhyay 
-- 24BCE0251- Surbhi Kumari
-- 24BCE0399- Lakshya Agarwal
+- 24BCE0375- Archisha Bandyopadhyay (Backend Developer)
+- 24BCE0251- Surbhi Kumari (Project Manager)
+- 24BCE0399- Lakshya Agarwal (Frontend Developer)
 
 <br>
 

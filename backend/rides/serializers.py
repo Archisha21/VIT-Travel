@@ -5,6 +5,9 @@ class RideSerializer(serializers.ModelSerializer):
     class Meta:
         model = Ride
         fields = '__all__'
+        extra_kwargs = {
+            'owner': {'required': False}
+        }
 
 
 class RideRequestSerializer(serializers.ModelSerializer):
